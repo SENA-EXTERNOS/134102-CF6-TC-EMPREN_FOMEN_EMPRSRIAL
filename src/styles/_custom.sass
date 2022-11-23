@@ -1,14 +1,22 @@
 .banner-principal-decorativo
-  &-1
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 20%
+    right: 4%
+    z-index: 2
   &-2
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 12%
+    left: 2%
+    z-index: 2
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 11%
+    left: 10%
+    z-index: 2
 
 
 @keyframes float1
@@ -17,3 +25,134 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+.banner-principal__componente
+  h1 
+    color: $color-secundario   
+
+.cajon-color-1
+  background: #E4E0EE
+  &::before
+    background-color: $color-primario
+
+.cajon-color-2
+  background: #F7E2DF
+  &::before
+    background-color: $color-acento-botones
+
+.slider-color-1
+  background: linear-gradient(to bottom, #f6f6f6 0%, #f6f6f6 50%, $color-primario 50%, $color-primario 100%)
+  h2,p
+    color: white
+  min-height: 17em
+
+.slider-color-2
+  background: #A4ADDC
+  min-height: 20em
+
+.bg-primario
+  background-color: $color-primario
+  color: white
+
+.card-t1
+  background: #D1D6F3
+  border-radius: 5px
+  h4,p 
+    color: black !important
+
+// titulo h3
+.color_texto_acento
+  color: $color-acento-botones  
+
+.pasos-a.color-acento-botones .pasos-a__circle div
+  color: white
+
+.lista-ul__vineta:before
+  color: $color-acento-botones
+
+.acordion__accion__btn--a
+  background: $color-primario
+  color: white
+
+.acordeonA 
+  background: #E7EAF8
+
+.fz-13 .tabs-a__tab__text
+  font-size: 13px !important
+
+.fz-13 .tabs-a__tab__selected
+  color: white !important
+  
+
+.tabs-a__content-item--active
+  background: #E7EAF8
+  border-radius: 10px
+
+  // Tarjeta icono suspendido A ----------------
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel2-tarjetaA
+  height: 16em
+  border-radius: 20px
+.t-2-nivel3-tarjeta
+  margin-top: -4em
+.bg-01
+  background-color: #8592D9 !important
+
+.color-acento-botones_black
+  background-color: $color-primario
+  p 
+   color: white
+
+    // Tarjeta icono suspendido B ----------------
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel2-tarjeta
+  height: 13em
+  border-radius: 20px
+.t-2-nivel3-tarjeta
+  margin-top: -3em
+
+.t-3-nivel1-tarjeta
+  height: 4em
+.t-3-nivel2-tarjeta
+  height: 22em
+  border-radius: 20px
+.t-3-nivel3-tarjeta
+  margin-top: -3em
+.tarjeta-color-st5
+  background-color: #F1F5AE
+.tarjeta--green
+  background-color: #FFFBC2     
+
+.p-img
+  background-image: url('../assets/template/fondo-card.png')
+  background-size: cover
+
+
+.fnd-in-left-01
+  background-image: url('../assets/template/fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema02/t2-i21.png') !important
+    background-size: cover
+    background-repeat: no-repeat    
+
+.fnd-in-left-02
+  background-image: url('../assets/template/fondo-card.png')
+  &:before 
+    background-image: url('../assets/template/tema03/t3-i1.png') !important
+    background-size: cover
+    background-repeat: no-repeat    
+
+
+.linea-tiempo-b.color-acento-botones .linea-tiempo-b__icon
+    background-color: #C6412A
+.linea-tiempo-b__line:after
+  border-left: 4px dotted #C6412A !important
