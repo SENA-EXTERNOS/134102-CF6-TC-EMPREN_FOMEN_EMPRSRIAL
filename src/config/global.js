@@ -99,32 +99,117 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Cartilla Ley 1266 de 2008 <em> Hábeas data </em>',
+      referencia:
+        'Superintendeica Industria comercio. (2008). <em>Cartilla ley 1266 de 2008 Hábeas Data.</em>',
+      tipo: 'Documento',
+      link:
+        'https://protecdatalatam.com/wp-content/uploads/2017/07/Cartilla_Ley_1266_de_2008_Habeas_Data.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'El sistema financiero colombiano',
+      referencia:
+        'banrep.gov.co. (s.f.).<em> El sistema financiero colombiano: estructura y evolución reciente.</em>',
+      tipo: 'Documento',
+      link:
+        'https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf',
+    },
+    {
+      tema: 'Solicitud y financiamiento de créditos',
+      referencia:
+        'Rodríguez., D. (2009).<em> Cartilla práctica. Prepara los documentos para solicitar un crédito.</em>',
+      tipo: 'Cartilla',
+      link:
+        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      tema: 'Capital semilla',
+      referencia:
+        'Corporación Industrial Minuto de Dios.<em> ¿Qué es el Capital Semilla?</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=BVutN1ZyKaE',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis del crédito',
+      significado:
+        'es un informe elaborado para determinar la aprobación o negación de un préstamo.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Capital semilla',
+      significado:
+        'es el dinero inicial que requiere el emprendedor para poner en marcha su proyecto',
+    },
+    {
+      termino: 'Crédito',
+      significado:
+        'es una operación que se realiza entre personas o instituciones crediticias en la cual se concede a la otra cierta cantidad de dinero; en el cual el solicitante asume el compromiso de devolver el monto de dinero entregado, más los intereses pactados.',
+    },
+    {
+      termino: 'Confidencialidad informática',
+      significado:
+        'es un principio fundamental que garantiza el necesario secreto de la información y de su tratamiento para prevenir su divulgación o no autorización cuando está almacenado en tránsito.',
+    },
+    {
+      termino: 'Entidad financiera',
+      significado:
+        'es cualquier empresa que presta servicios financieros (captación y remuneración de los ahorros, concesión de préstamos y créditos, aseguramiento, etc.) a los consumidores y usuarios.',
+    },
+    {
+      termino: 'Flexibilidad financiera',
+      significado:
+        'es la capacidad de una empresa para adaptarse a los cambios del entorno financiero y obtener los fondos que financien su actividad en condiciones razonables.',
+    },
+    {
+      termino: '<em>Habeas data</em>',
+      significado:
+        'es aquel derecho que tiene toda persona de conocer, actualizar y rectificar la información que se haya recogido sobre ella en archivos y bancos de datos de naturaleza pública o privada.',
+    },
+    {
+      termino: 'Portafolio',
+      significado:
+        'es un documento o una presentación donde una compañía detalla todas las características de su oferta comercial.',
+    },
+    {
+      termino: 'Productos financieros',
+      significado:
+        'son los productos que ofrece un banco o una institución financiera que ayudará a ahorrar e invertir de formas diversas, dependiendo del riesgo que cada cliente quiera asumir con el fin de obtener rentabilidad.',
+    },
+    {
+      termino: 'Sistema financiero',
+      significado:
+        'es el conjunto de instituciones financieras organizadas tanto públicas como privadas que se encargan de captar, administrar e invertir el dinero de todas las personas tanto naturales como jurídicas (nacionales o extranjeras).',
+    },
+    {
+      termino: 'Transparencia',
+      significado:
+        'son principios y acciones claras destinadas a garantizar el acceso a la información clara y oportuna para la ciudadanía en general.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Asobancaria. (s. f). <em>Normatividad. Decretos, Resoluciones y leyes que rigen el sector.</em>',
+      link: 'https://www.asobancaria.com/normatividad/',
+    },
+    {
+      referencia:
+        'Dueñas, R. (2008). <em>Introducción al sistema financiero y bancario.</em>',
+      link:
+        'https://camaradecomercioempresarial.org/wp-content/uploads/wpcfto_files/e28c363adc826c0cfcd3e914472beb29SFB.pdf',
+    },
+    {
+      referencia:
+        'Educación Superior Meta. (s. f). <em>Procedimiento de manejo de datos personales.</em>',
+      link:
+        'http://educacionsuperiormeta.co/images/recaudo/1_PROCEDIMIENTO_DE_MANEJO_DE_DATOS_PERSONALES.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez., D. (2009).<em>Cartilla práctica. Prepara los documentos para solicitar un crédito.</em>',
+      link:
+        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y',
     },
   ],
   creditos: {
