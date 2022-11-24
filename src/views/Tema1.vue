@@ -101,7 +101,7 @@
             p.mb-0.text-white Para profundizar más sobre el tema, se invita a explorar en el material complementario: Sistema financiero colombiano
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-secundario(
-              :href='obtenerLink("/actividades/actividad.html")',
+              :href='obtenerLink("https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf")',
               target='_blank'
             )
               span Descargar

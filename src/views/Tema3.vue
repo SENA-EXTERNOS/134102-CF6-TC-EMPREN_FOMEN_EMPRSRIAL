@@ -167,7 +167,7 @@
             p.mb-0 Para ampliar la información, lo invitamos a ver el material complementario: Cartilla práctica prepara los documentos para solicitar un crédito.
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-secundario(
-              :href='obtenerLink("/actividades/actividad.html")',
+              :href='obtenerLink("https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y")',
               target='_blank'
             )
               span Descargar
