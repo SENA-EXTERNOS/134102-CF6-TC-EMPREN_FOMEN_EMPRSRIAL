@@ -20,7 +20,7 @@
 
     .row.mb-5
       .col-lg-9
-        TabsA.color-acento-botones.fz-13
+        TabsA.color-acento-contenido.fz-13
           .tarjeta.bg-03.p-4(titulo='Ley 45 de 1990')
             p Por la cual se expiden normas en materia de intermediación financiera, regula la actividad aseguradora, conceden unas facultades y dictan otras disposiciones.
           .tarjeta.bg-03.p-4(titulo='Ley 35 de 1983')
@@ -117,7 +117,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        ImagenInfografica.color-secundario.punto_caliente_acento_botones(
+        ImagenInfografica.color-acento-botones.punto_caliente_acento_botones(
           data-aos='zoom-in'
         )
           template(v-slot:imagen)
@@ -129,33 +129,33 @@
             y='62.3%',
             numero='+'
           )
-            p en las transacciones no se cobran impuestos por los movimientos que se realicen.
+            p En las transacciones no se cobran impuestos por los movimientos que se realicen.
           .tarjeta.color-acento-botones_black.p-3(
             x='7.5%',
             y='35%',
             numero='+'
           )
-            p corresponde al número de títulos financieros que se encuentran en el mercado; mientras más títulos en el mercado más grande será este.
+            p Corresponde al número de títulos financieros que se encuentran en el mercado; mientras más títulos en el mercado más grande será este.
           .tarjeta.color-acento-botones_black.p-3(
             x='37%',
             y='21.6%',
             numero='+'
           )
-            p todo inversor que quiera tener información de los activos que forman parte de los mercados financieros puede obtenerla de manera fácil y rápida.
+            p Todo inversor que quiera tener información de los activos que forman parte de los mercados financieros puede obtenerla de manera fácil y rápida.
           .tarjeta.color-acento-botones_black.p-3(x='81%', y='41%', numero='+')
-            p en el mercado financiero no existe barrera para la compra y venta de los activos.
+            p En el mercado financiero no existe barrera para la compra y venta de los activos.
           .tarjeta.color-acento-botones_black.p-3(
             x='82%',
             y='76.2%',
             numero='+'
           )
-            p dependiendo del número de órdenes de compra y venta negociadas se determina el nivel de profundidad del mercado.
+            p Dependiendo del número de órdenes de compra y venta negociadas se determina el nivel de profundidad del mercado.
           .tarjeta.color-acento-botones_black.p-3(
             x='37%',
             y='82.1%',
             numero='+'
           )
-            p esta depende de la capacidad que tienen los agentes de responder a una orden de compra y venta.
+            p Esta depende de la capacidad que tienen los agentes de responder a una orden de compra y venta.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -240,10 +240,25 @@
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.p-img
           .bloque-texto-g__img(
-            :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i13.svg")})` }'
+            :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i13.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Luego de conocer la confidencialidad de la información y el tratamiento de datos, se presentarán los productos financieros; estos pueden ser ofrecidos por un banco o una institución financiera que apoya el ahorro y la inversión de formas diversas dependiendo del riesgo que cada cliente quiera asumir con el fin de obtener rentabilidad. A continuación, veamos la normativa que las rige:                  
+            ul.lista-ul
+                  li 
+                    i.lista-ul__vineta
+                    | Fondo Emprender. 
+                  li 
+                    i.lista-ul__vineta
+                    | Centro de Ciencia y Tecnología de Antioquia.                 
+                  li 
+                    i.lista-ul__vineta
+                    | Tecnnova.                 
+                  li 
+                    i.lista-ul__vineta
+                    | Opino.                 
+                  li 
+                    i.lista-ul__vineta
+                    | Innpulsa.                 
 
     p Estas entidades buscan apoyar a los emprendedores con ideas de negocios que son prometedoras, impulsan el crecimiento rápido sean rentables y, lo más importante, que sean sostenibles a medida que avanza el tiempo. Adicional a las anteriores entidades, existen otras a destacar como Cultura E, Tecnoparques, Bancóldex, Ruta N, Parquesoft, Créame, Colciencias, entre otras.
     p.mb-5 Para acceder al apoyo que el país brinda a los emprendimientos, lo único que deben hacer los interesados es generar una propuesta interesante, sostenible y que cumpla con unos requisitos específicos para el desembolso; así poder disfrutar de un capital que contribuya a negocios que generen empleo y oportunidad de desarrollo al país.
@@ -271,11 +286,11 @@
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-11.col-12
-        PasosA.color-acento-botones.mb-5(tipo='n')
+        PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.col-8.mb-md-0
               h3 Financiamiento a corto plazo
-              p.text-start este es el que realiza a un término de un año.
+              p.text-start Este es el que realiza a un término de un año.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -291,11 +306,11 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Financiamiento a largo plazo
-              p.text-start el plazo de pago es superior a un año. En este tipo de financiamiento cuando se realiza a través de una institución financiera o proveniente de amigos o familiares, en algunos casos, no se fija una fecha límite de pago.
+              p.text-start El plazo de pago es superior a un año. En este tipo de financiamiento cuando se realiza a través de una institución financiera o proveniente de amigos o familiares, en algunos casos, no se fija una fecha límite de pago.
           .row
             .col-md-10.col-8.mb-md-0
               h3 Financiamiento Interno
-              p.text-start es cuando la empresa recurre a sus propios medios económicos y producto de su actividad para reinvertir en su propio beneficio. Puede proceder de reservas, amortizaciones etc.
+              p.text-start Es cuando la empresa recurre a sus propios medios económicos y producto de su actividad para reinvertir en su propio beneficio. Puede proceder de reservas, amortizaciones etc.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -311,11 +326,11 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Financiamiento externo
-              p.text-start estos recursos son los que vienen de personas externas como bancos, aliados estratégicos, entre otros.   
+              p.text-start Estos recursos son los que vienen de personas externas como bancos, aliados estratégicos, entre otros.   
           .row
             .col-md-10.col-8.mb-md-0
               h3 Financiamiento propio
-              p.text-start son aquellos recursos financieros con los cuales la empresa cuenta y no está en la obligación de devolver, como el capital social y las reservas.
+              p.text-start Son aquellos recursos financieros con los cuales la empresa cuenta y no está en la obligación de devolver, como el capital social y las reservas.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -331,7 +346,7 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Financiamiento ajeno  
-              p.text-start es todo aquel dinero que, aunque está en la empresa, es adquirido de terceros por diferentes medios como créditos, entre otros.                                                  
+              p.text-start Es todo aquel dinero que, aunque está en la empresa, es adquirido de terceros por diferentes medios como créditos, entre otros.                                                  
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -349,16 +364,16 @@
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Ley 45 de 1990")
               .col-12
-                p por la cual se dictan normas en materia de intermediación financiera, se regula la actividad aseguradora, se conceden unas facultades y se dictan otras disposiciones. 
+                p Por la cual se dictan normas en materia de intermediación financiera, se regula la actividad aseguradora, se conceden unas facultades y se dictan otras disposiciones. 
             .row(titulo="Ley 35 de 1993")
               .col-12
-                p por la cual se dictan normas generales y se señalan en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno Nacional para regular las actividades financieras, bursátiles, aseguradoras, y cualquier otra relacionada con el manejo, aprovechamiento e inversión de recursos captados del público; se dictan otras disposiciones en materia financiera y aseguradora. 
+                p Por la cual se dictan normas generales y se señalan en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno Nacional para regular las actividades financieras, bursátiles, aseguradoras, y cualquier otra relacionada con el manejo, aprovechamiento e inversión de recursos captados del público; se dictan otras disposiciones en materia financiera y aseguradora. 
             .row(titulo="Ley 510 de 1999")
               .col-12
-                p modificada por la Ley 676 de 2001, por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores y se conceden unas facultades.
+                p Modificada por la Ley 676 de 2001, por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores y se conceden unas facultades.
             .row(titulo="Ley 795 de 2003")
               .col-12
-                p por la cual se ajustan algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones.
+                p Por la cual se ajustan algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones.
 </template>
 
 <script>

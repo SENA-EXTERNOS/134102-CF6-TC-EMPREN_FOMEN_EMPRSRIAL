@@ -156,17 +156,17 @@
 
       .col-lg-10.px-4
         .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
-          .col-lg-2.col-2
+          .col-lg-1.col-2
             figure
               img(
                 src='@/assets/template/tema01/t1-i10.svg',
                 alt='Texto que describa la imagen'
               )
-          .col-lg-7.col-6
+          .col-lg-8.col-6
             h4 Cartilla práctica prepara los documentos para solicitar un crédito.
             p.mb-0 Para ampliar la información, lo invitamos a ver el material complementario: Cartilla práctica prepara los documentos para solicitar un crédito.
           .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-secundario(
+            a.boton.boton--b.color-acento-botones(
               :href='obtenerLink("https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y")',
               target='_blank'
             )
@@ -181,7 +181,7 @@
 
     p.mb-5 Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, revise algunos criterios expuestos a continuación:
 
-    TabsC.color-acento-botones.mb-5
+    TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo='<strong>Tipos de crédito</strong>')
         .row
           .col-md-6.mb-4.mb-md-0
@@ -254,7 +254,7 @@
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-10.col-12
-        LineaTiempoB.color-acento-botones.mb-5(:datos='datosLineaTiempoB') 
+        LineaTiempoB.color-acento-contenido.mb-5(:datos='datosLineaTiempoB') 
 
     .row.justify-content-center.mb-5
       .col-lg-10

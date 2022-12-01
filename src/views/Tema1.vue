@@ -14,7 +14,9 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-1.p-4
-          p.mb-0 Dentro de los cambios trascendentales a los que se ha enfrentado la humanidad, se posiciona en los primeros lugares el acceso a la información, cambio que drásticamente tuvo una repercusión pos-pandemia, porque muchas personas, y organizaciones no estaban preparadas de manera suficiente, para las necesidades de sus usuarios.
+          p.mb-0 Vale la pena aclarar que el estado colombiano se encarga de la regulación, el control y la vigilancia del buen funcionamiento del sistema financiero. Además, las entidades de control están vigiladas por entes que se encargan de supervisar el cumplimiento de la normatividad para el correcto funcionamiento de las mismas. A continuación, se enumeran las entidades de control:
+
+    p.mb-5 Entidades de control:          
 
     SlyderF.mb-5(columnas='col-lg-6 col-xl-4')
       .tarjeta.slider-color-1
@@ -81,8 +83,6 @@
             h2.text-center Superfinanciera
             p.text-center Superintendencia Financiera de Colombia    
 
-    p.mb-5 Entidades de control:
-
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-2.p-4
@@ -90,17 +90,17 @@
 
       .col-lg-10.px-4
         .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
-          .col-lg-2.col-2
+          .col-lg-1.col-2
             figure
               img(
                 src='@/assets/template/tema01/t1-i10.svg',
                 alt='Texto que describa la imagen'
               )
-          .col-lg-7.col-6
+          .col-lg-8.col-6
             h4.text-white Sistema financiero colombiano
-            p.mb-0.text-white Para profundizar más sobre el tema, se invita a explorar en el material complementario: Sistema financiero colombiano
+            p.mb-0.text-white Para profundizar más sobre el tema, se invita a explorar en el material complementario: Sistema financiero colombiano.
           .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-secundario(
+            a.boton.boton--b.color-acento-botones(
               :href='obtenerLink("https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf")',
               target='_blank'
             )
@@ -274,11 +274,11 @@
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-11.col-12
-        PasosA.color-acento-botones.mb-5(tipo='n')
+        PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.col-8.mb-md-0
               h3 Base de datos
-              p.text-start conjunto organizado de datos personales que sea objeto de tratamiento.
+              p.text-start Conjunto organizado de datos personales que sea objeto de tratamiento.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -294,11 +294,11 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Base de datos
-              p.text-start conjunto organizado de datos personales que sea objeto de tratamiento.
+              p.text-start Conjunto organizado de datos personales que sea objeto de tratamiento.
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Dato personal
-              p.text-start cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
+              p.text-start Cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -314,11 +314,11 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Encargado del tratamiento
-              p.text-start persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, realice el tratamiento de datos personales por cuenta del responsable del tratamiento.
+              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, realice el tratamiento de datos personales por cuenta del responsable del tratamiento.
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Responsable del tratamiento
-              p.text-start persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decida sobre la base de datos y/o el tratamiento de los datos.
+              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decida sobre la base de datos y/o el tratamiento de los datos.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -334,11 +334,11 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Titular
-              p.text-start persona natural cuyos datos personales sean objeto de tratamiento.   
+              p.text-start Persona natural cuyos datos personales sean objeto de tratamiento.   
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Tratamiento
-              p.text-start cualquier operación o conjunto de operaciones sobre datos personales, tales como la recolección, almacenamiento, uso, circulación o supresión.
+              p.text-start Cualquier operación o conjunto de operaciones sobre datos personales, tales como la recolección, almacenamiento, uso, circulación o supresión.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
