@@ -101,7 +101,7 @@
             p.mb-0.text-white Para profundizar más sobre el tema, se invita a explorar en el material complementario: Sistema financiero colombiano.
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
-              :href='obtenerLink("https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf")',
+              href="https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf",
               target='_blank'
             )
               span Descargar
@@ -257,6 +257,7 @@
     p Después de conocer la normativa financiera, es importante continuar con la seguridad y la confidencialidad de la información ya que el Estado, desde su deber, ha impulsado la protección de la información y privacidad de los datos en la sociedad actual.
     p Para la Superintendencia Financiera la confidencialidad es “la protección de información cuya divulgación no está autorizada“ (Circular 052) y desde la informática es vista como un principio fundamental que garantiza la privacidad de la información y de su tratamiento, para prevenir su divulgación o no autorización cuando está almacenado en tránsito.
     p.mb-5 Para garantizar la confidencialidad de la información se deben aplicar medidas técnicas tales como:
+    h3.mb-5.text-center Medidas técnicas para garantizar la confidencialidad de la información   
 
     .row.justify-content-center.mb-5
       .col-lg-9

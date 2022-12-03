@@ -240,7 +240,7 @@
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.p-img
           .bloque-texto-g__img(
-            :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i13.png")})` }'
+            :style='{ "background-image": `url(${require("@/assets/template/tema02/t2-i13.svg")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
             ul.lista-ul

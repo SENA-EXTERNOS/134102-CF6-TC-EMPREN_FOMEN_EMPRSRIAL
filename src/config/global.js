@@ -201,12 +201,6 @@ export default {
     },
     {
       referencia:
-        'Educación Superior Meta. (s. f). <em>Procedimiento de manejo de datos personales.</em>',
-      link:
-        'http://educacionsuperiormeta.co/images/recaudo/1_PROCEDIMIENTO_DE_MANEJO_DE_DATOS_PERSONALES.pdf',
-    },
-    {
-      referencia:
         'Rodríguez., D. (2009).<em>Cartilla práctica. Prepara los documentos para solicitar un crédito.</em>',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y',

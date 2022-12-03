@@ -167,7 +167,7 @@
             p.mb-0 Para ampliar la información, lo invitamos a ver el material complementario: Cartilla práctica prepara los documentos para solicitar un crédito.
           .col-lg-3.col-4.text-center
             a.boton.boton--b.color-acento-botones(
-              :href='obtenerLink("https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y")',
+              href="https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y",
               target='_blank'
             )
               span Descargar
@@ -179,7 +179,7 @@
 
     p Para continuar con el tema de solicitud y financiamiento de créditos, es necesario hacer énfasis en el concepto de crédito y no confundirlo con préstamo. La diferencia radica en que en el crédito el cliente cuenta con un dinero a su disposición y solo paga intereses por la cantidad que utiliza, pero por el contrario en el préstamo el cliente recibe todo el dinero y paga intereses por la totalidad sin importar cuánto realmente gaste. En el mercado financiero existen varios tipos de crédito y algunos criterios que se deben tener en cuenta, a la hora de elegir uno de estos, son:
 
-    p.mb-5 Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, revise algunos criterios expuestos a continuación:
+    p.mb-5 Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, debe revisar algunos criterios, los cuales se exponen a continuación:
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo='<strong>Tipos de crédito</strong>')
