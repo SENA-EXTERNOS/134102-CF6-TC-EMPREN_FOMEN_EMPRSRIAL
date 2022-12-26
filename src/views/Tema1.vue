@@ -246,7 +246,7 @@
                     i.lista-ul__vineta
                     | Decreto 1727 de 2009: por medio del cual se determina la forma en la cual los operadores de los bancos de datos, deben presentar la información de los titulares.
 
-            .row(titulo="Decretos:")
+            .row(titulo="Cirtular:")
               .col-12
                 p.mb-0 Circular 52 del 25 de octubre 2007: requerimientos mínimos de seguridad y calidad en el manejo de la información a través de medios y canales de distribución de productos y servicios para clientes y usuarios.
 
@@ -278,8 +278,8 @@
         PasosA.color-acento-contenido.mb-5(tipo='n')
           .row
             .col-md-10.col-8.mb-md-0
-              h3 Base de datos
-              p.text-start Conjunto organizado de datos personales que sea objeto de tratamiento.
+              h3 Autorización
+              p.text-start Consentimiento previo, expreso e informado del titular para llevar a cabo el tratamiento de datos personales.
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
