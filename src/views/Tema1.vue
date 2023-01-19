@@ -7,16 +7,14 @@
         span 1
       h1 El sistema financiero colombiano
 
-    p.mb-5 Para comenzar con este componente formativo, es necesario entender el sistema financiero como el conjunto de instituciones financieras organizadas, tanto públicas como privadas, que se encargan de captar, administrar e invertir el dinero de todas las personas naturales o jurídicas, nacionales o extranjeras. Según Dueñas, R. (2008), en&nbsp;
-      i Introducción al sistema financiero y bancario,&nbsp;
-      | el sistema financiero es “el conjunto de normas, instrumentos y regulaciones (por ejemplo el Estatuto Orgánico del Sistema Financiero) que recaen sobre personas e instituciones que actúan en el mercado financiero, ya sean o no intermediados” (p.4).
+    p.mb-5 Para dar inicio a este componente formativo, es importante entender que, el sistema financiero, es el conjunto de instituciones financieras organizadas, tanto públicas como privadas, que se encargan de captar, administrar e invertir el dinero de todas las personas naturales o jurídicas, nacionales o extranjeras. Según Dueñas, R. (2008), en Introducción al sistema financiero y bancario, el sistema financiero es “el conjunto de normas, instrumentos y regulaciones (por ejemplo el Estatuto Orgánico del Sistema Financiero) que recaen sobre personas e instituciones que actúan en el mercado financiero, ya sean o no intermediados” (p.4).
 
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-1.p-4
-          p.mb-0 Vale la pena aclarar que el estado colombiano se encarga de la regulación, el control y la vigilancia del buen funcionamiento del sistema financiero. Además, las entidades de control están vigiladas por entes que se encargan de supervisar el cumplimiento de la normatividad para el correcto funcionamiento de las mismas. A continuación, se enumeran las entidades de control:
+          p.mb-0 Vale la pena aclarar, que el estado colombiano se encarga de la regulación, el control y la vigilancia del buen funcionamiento del sistema financiero. Además, las entidades de control están vigiladas por entes que se encargan de supervisar el cumplimiento de la normatividad para el correcto funcionamiento de las mismas. 
 
-    p.mb-5 Entidades de control:          
+    p.mb-5 Entidades que cumplen las funciones de control:     
 
     SlyderF.mb-5(columnas='col-lg-6 col-xl-4')
       .tarjeta.slider-color-1
@@ -88,30 +86,12 @@
         .cajon.cajon-color-2.p-4
           p.mb-0 Cada una de estas entidades ejerce un control de supervisión de manera eficaz y eficiente de acuerdo al mercado para que las entidades sometidas a su control y vigilancia presten un servicio financiero adecuado en condiciones de seguridad, transparencia y eficiencia.
 
-      .col-lg-10.px-4
-        .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
-          .col-lg-1.col-2
-            figure
-              img(
-                src='@/assets/template/tema01/t1-i10.svg',
-                alt='Texto que describa la imagen'
-              )
-          .col-lg-8.col-6
-            h4.text-white Sistema financiero colombiano
-            p.mb-0.text-white Para profundizar más sobre el tema, se invita a explorar en el material complementario: Sistema financiero colombiano.
-          .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-acento-botones(
-              href="https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf",
-              target='_blank'
-            )
-              span Descargar
-              i.fas.fa-file-download 
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
       | Las entidades financieras
 
-    p Las entidades financieras en Colombia cuentan con la implementación de programas que brindan acompañamiento a las personas o empresas para que logren alcanzar los conocimientos básicos en temas de seguridad financiera, ahorro, crédito e inversión; todo esto con el fin de que conozcan mejor el sistema financiero. Además, estas instituciones ofrecen diferentes productos y servicios de acuerdo a las necesidades de las personas a través de productos bancarios, productos de inversión, planes de pensiones y productos de seguros.
+    p Las entidades financieras en Colombia, cuentan con la implementación de programas, que brindan acompañamiento a las personas o empresas, para que logren alcanzar los conocimientos básicos en temas de seguridad financiera, ahorro, crédito e inversión; esto con el objetivo que conozcan mejor el sistema financiero. Además, estas instituciones ofrecen diferentes productos y servicios, de acuerdo con las necesidades de las personas, a través de productos bancarios, productos de inversión, planes de pensiones y productos de seguros.
 
     p Es de aclarar que el&nbsp;
       strong Banco de la República&nbsp;
@@ -119,7 +99,7 @@
       strong Superintendencia Financiera de Colombia&nbsp;
       | (SFC), la cual se encarga de captar los recursos tanto de las empresas como de las personas.
 
-    p.mb-5 El sistema financiero está conformado por las siguientes instituciones:
+    p.mb-5 El sistema financiero colombiano está conformado por las siguientes instituciones que cumplen diferentes funciones:
 
     SlyderF.mb-5(columnas='col-lg-6 col-xl-4')
       .tarjeta.slider-color-2
@@ -164,7 +144,7 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Normativa financiera
 
-    p.mb-5 Ahora bien, después de conocer las entidades de control del sistema financiero colombiano, se expondrá la normativa aplicable a este sector:
+    p.mb-5 Ahora bien, después de conocer las entidades de control del sistema financiero colombiano, se expondrá la normativa aplicable a este sector, es decir, las leyes, decretos y demás, que forman parte: 
 
     .row.justify-content-center.mb-4
         .col-lg-4
@@ -246,7 +226,7 @@
                     i.lista-ul__vineta
                     | Decreto 1727 de 2009: por medio del cual se determina la forma en la cual los operadores de los bancos de datos, deben presentar la información de los titulares.
 
-            .row(titulo="Cirtular:")
+            .row(titulo="Circular:")
               .col-12
                 p.mb-0 Circular 52 del 25 de octubre 2007: requerimientos mínimos de seguridad y calidad en el manejo de la información a través de medios y canales de distribución de productos y servicios para clientes y usuarios.
 
@@ -254,15 +234,18 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Seguridad y confidencialidad de la información
 
-    p Después de conocer la normativa financiera, es importante continuar con la seguridad y la confidencialidad de la información ya que el Estado, desde su deber, ha impulsado la protección de la información y privacidad de los datos en la sociedad actual.
-    p Para la Superintendencia Financiera la confidencialidad es “la protección de información cuya divulgación no está autorizada“ (Circular 052) y desde la informática es vista como un principio fundamental que garantiza la privacidad de la información y de su tratamiento, para prevenir su divulgación o no autorización cuando está almacenado en tránsito.
-    p.mb-5 Para garantizar la confidencialidad de la información se deben aplicar medidas técnicas tales como:
+    p Después de conocer la normativa financiera, hay que abordar la seguridad y la confidencialidad de la información, teniendo en cuenta que el Estado, desde su deber, ha impulsado la protección de la información y privacidad de los datos en la sociedad.
+
+    p Para la Superintendencia Financiera, la confidencialidad es “la protección de información cuya divulgación no está autorizada “(Circular 052) y desde la informática es vista como un principio fundamental que garantiza la privacidad de la información y de su tratamiento, para prevenir su divulgación o no autorización cuando está almacenado en tránsito.
+
+    p.mb-5 Se debe garantizar la confidencialidad de la información; por lo tanto, se debe aplicar una serie de técnicas tales como:
+
     h3.mb-5.text-center Medidas técnicas para garantizar la confidencialidad de la información   
 
     .row.justify-content-center.mb-5
-      .col-lg-9
+      .col-lg-10
           figure(data-aos="zoom-in")
-            img(src="@/assets/template/tema01/t1-i17.svg", alt="alt").img400.m-auto
+            img(src="@/assets/template/tema01/img1.svg", alt="alt").img400.m-auto
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -270,7 +253,7 @@
 
     p En Colombia, la Ley 1581 de 2012 tiene como objetivo “desarrollar el derecho constitucional que tienen todas las personas a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bases de datos o archivos, y los demás derechos, libertades y garantías constitucionales; así como el derecho a la información”. Además, esta ley aplicará al tratamiento de datos personales efectuado en territorio colombiano o cuando al responsable del tratamiento o encargado del tratamiento no establecido en territorio nacional le sea aplicable la legislación colombiana en virtud de normas y tratados internacionales. A continuación, se presentan definiciones expuestas por esta ley:
 
-    p.mb-5 Definiciones de la Ley 1581:
+    p.mb-5 La Ley 1581, se establece y está conformada por:
 
 
     .row.d-flex.justify-content-center.mb-5
@@ -279,7 +262,8 @@
           .row
             .col-md-10.col-8.mb-md-0
               h3 Autorización
-              p.text-start Consentimiento previo, expreso e informado del titular para llevar a cabo el tratamiento de datos personales.
+              p.text-start Consentimiento previo, expreso e informado del titular para llevar a cabo, el tratamiento de datos personales.
+
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -295,11 +279,12 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Base de datos
-              p.text-start Conjunto organizado de datos personales que sea objeto de tratamiento.
+              p.text-start Conjunto organizado de datos personales, que sea objeto de tratamiento.
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Dato personal
-              p.text-start Cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
+              p.text-start Cualquier información vinculada o que pueda asociarse a una o varias personas naturales, determinadas o determinables.
+
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -315,11 +300,13 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Encargado del tratamiento
-              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, realice el tratamiento de datos personales por cuenta del responsable del tratamiento.
+              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, realice el tratamiento de datos personales, por cuenta del responsable del tratamiento.
+
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Responsable del tratamiento
-              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decida sobre la base de datos y/o el tratamiento de los datos.
+              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decidE sobre la base de datos y/o el tratamiento de los datos.
+
             .col-md-2.col-4
               figure(data-aos='zoom-in')
                 img(
@@ -335,7 +322,7 @@
                 )
             .col-md-10.mb-md-0.col-8
               h3.text-start Titular
-              p.text-start Persona natural cuyos datos personales sean objeto de tratamiento.   
+              p.text-start Persona natural cuyos datos personales sean el objeto de tratamiento.
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Tratamiento

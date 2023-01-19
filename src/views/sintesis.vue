@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 A continuación, se presenta la síntesis del componente, en ella podrá encontrar la estructura de la temática desarrollada:
-
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

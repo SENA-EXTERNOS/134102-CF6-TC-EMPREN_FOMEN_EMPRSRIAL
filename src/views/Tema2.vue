@@ -48,11 +48,11 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Portafolio
 
-    p La mayoría de las entidades financieras ofrecen una variedad de productos o servicios para todos los públicos y necesidades del mercado con el fin de captar clientes de inversión; algunos de los productos financieros que se encuentran en el mercado son:
-    p A continuación, se listan los productos que disponen las entidades financieras:
+    p La mayoría de las entidades financieras ofrecen una variedad de productos o servicios para todos los públicos y necesidades del mercado, con el fin de captar clientes de inversión.
+    p Algunos de los productos financieros que disponen las entidades financieras, son:
 
     .row.mb-5
-      .col-lg-12.mb-5
+      .col-lg-12.mb-3
         .row.d-flex.justify-content-center
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .col-lg-12.t-2-nivel1-tarjeta
@@ -94,7 +94,7 @@
               h4.text-center Productos financieros de financiación
               p.text-center Hace referencia a las hipotecas o créditos.
 
-    p.mb-5 Anteriormente se ha tocado el tema de productos financieros de una manera rápida y superficial, en el siguiente video se profundiza sobre estos haciendo especial énfasis en sus ventajas y la importancia de los mismos en todo el Sistema Financiero colombiano.
+    p.mb-5 En el siguiente video se profundiza sobre los productos financieros, haciendo especial énfasis en sus ventajas y la importancia de los mismos, en todo el sistema financiero colombiano.
 
     .col-12.mb-5
       figure
@@ -169,17 +169,17 @@
             alt='Texto que describa la imagen'
           )
       .col-lg-8.col-12
-        p.mb-0 Por otra parte, y teniendo claridad en las características del mercado financiero, hablaremos del concepto de capital semilla, las políticas y trámites. El primero hace referencia al recurso inicial que requiere el emprendedor para poner en marcha su proyecto, este se ha convertido en fuente principal de financiación para los negocios que se encuentran en etapa de creación o consolidación. El segundo hace referencia a las políticas específicas, que tienen cada entidad financiera, para obtener el recurso inicial de financiación; a estas el emprendedor debe ajustarse con el fin de obtener los recursos necesarios para su negocio. Es de aclarar que, en la mayoría de los casos, las instituciones financieras exigen a los emprendedores tener activos que puedan ser ofrecidos como garantías, y demostrar, a través de sus ventas, la capacidad de pago. Por último, cada entidad financiera tiene definidos los requisitos para tramitar el capital semilla, que en términos generales son los siguientes: 
+        p.mb-0 Por otra parte, y teniendo claridad en las características del mercado financiero, hablaremos del concepto de capital semilla, las políticas y los trámites. El primero hace referencia al recurso inicial que requiere el emprendedor para poner en marcha su proyecto, el cual se ha convertido en fuente principal de financiación para los negocios que se encuentran en etapa de creación o consolidación. El segundo hace referencia a las políticas específicas, que tiene cada entidad financiera, para obtener el recurso inicial de financiación y, a estas, el emprendedor debe ajustarse con el fin de obtener los recursos necesarios para su negocio. Es de aclarar que, en la mayoría de los casos, las instituciones financieras exigen a los emprendedores tener activos que puedan ser ofrecidos como garantías, y demostrar, a través de sus ventas, la capacidad de pago. Por último, cada entidad financiera tiene definidos los requisitos para tramitar el capital semilla. 
 
-    p Es importante aclarar que los documentos a mencionar son algunos que solicitan las instituciones financieras para iniciar el trámite y desembolso del préstamo como el capital semilla, y cada entidad tiene su propia política de acuerdo con el monto requerido.
+    p Los documentos a mencionar, son algunos que solicitan las instituciones financieras para iniciar el trámite y desembolso del préstamo como el capital semilla, y cada entidad tiene su propia política, de acuerdo con el monto requerido:
 
     .row.mb-5
       .row.d-flex.justify-content-center
         SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in')
-          .tarjeta.p-4
+          .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.color-tarjetas
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -188,10 +188,10 @@
                     )
                   p.text-center La fotocopia de la cédula.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.color-tarjetas
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -200,10 +200,10 @@
                     )
                   p.text-center El certificado de residencia que con mínimo debe tener dos años de antigüedad expedida por la junta de acción comunal.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.color-tarjetas
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -212,10 +212,10 @@
                     )
                   p.text-center La descripción del proyecto.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.color-tarjetas
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -224,10 +224,10 @@
                     )
                   p.text-center El certificado de antecedentes fiscales, judiciales y disciplinarios.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.color-tarjetas
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(

@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'El sistema financiero, productos y trámites de financiación',
     descripcionCurso:
-      'Los trámites que se deben realizar para poner en marcha un proyecto o idea de negocio y las fuentes a las cuales se puede acceder para conseguir los recursos necesarios y ejecutar un  emprendimiento son esenciales para el éxito de este, por ello es importante abordar temas pertinentes a los sistemas, productos financieros, entidades de control, normatividad financiera, solicitudes y financiamiento de créditos.',
+      'Los trámites que se deben realizar para poner en marcha un proyecto o idea de negocio y las fuentes a las cuales se puede acceder, para conseguir los recursos necesarios y ejecutar un emprendimiento son esenciales para el éxito de este; es por eso que es importante abordar temas pertinentes a los sistemas, productos financieros, entidades de control, normatividad financiera, solicitudes y financiamiento de créditos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -99,7 +99,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Cartilla Ley 1266 de 2008 <em> Hábeas data </em>',
+      tema: 'El sistema financiero colombiano',
       referencia:
         'Superintendeica Industria comercio. (2008). <em>Cartilla ley 1266 de 2008 Hábeas Data.</em>',
       tipo: 'Documento',
@@ -109,7 +109,7 @@ export default {
     {
       tema: 'El sistema financiero colombiano',
       referencia:
-        'banrep.gov.co. (s.f.).<em> El sistema financiero colombiano: estructura y evolución reciente.</em>',
+        'banrep.gov.co. (s.f.). <em>El sistema financiero colombiano: estructura y evolución reciente.</em>',
       tipo: 'Documento',
       link:
         'https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/rbr_nota_1023.pdf',
@@ -117,15 +117,15 @@ export default {
     {
       tema: 'Solicitud y financiamiento de créditos',
       referencia:
-        'Rodríguez., D. (2009).<em> Cartilla práctica. Prepara los documentos para solicitar un crédito.</em>',
+        'Rodríguez, D. (2009). <em>Cartilla práctica. Prepara los documentos para solicitar un crédito.</em> ',
       tipo: 'Cartilla',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'Capital semilla',
+      tema: 'Solicitud y financiamiento de créditos',
       referencia:
-        'Corporación Industrial Minuto de Dios.<em> ¿Qué es el Capital Semilla?</em> [Video]. YouTube.',
+        'Corporación Industrial Minuto de Dios. (2021). <em>¿Qué es el Capital Semilla?</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=BVutN1ZyKaE',
     },
@@ -201,7 +201,13 @@ export default {
     },
     {
       referencia:
-        'Rodríguez., D. (2009).<em>Cartilla práctica. Prepara los documentos para solicitar un crédito.</em>',
+        'Educación Superior Meta. (s. f). <em>Procedimiento de manejo de datos personales.</em>',
+      link:
+        'https://educacionsuperiormeta.co/images/recaudo/1_PROCEDIMIENTO_DE_MANEJO_DE_DATOS_PERSONALES.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez., D. (2009). <em>Cartilla práctica. Prepara los documentos para solicitar un crédito.</em> ',
       link:
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y',
     },

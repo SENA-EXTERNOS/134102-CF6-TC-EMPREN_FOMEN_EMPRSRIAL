@@ -16,12 +16,12 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i18.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se desarrollará la temática del funcionamiento del sistema financiero de acuerdo con la normatividad vigente, entidades de control, seguridad, confidencialidad de la información y tratamientos de datos. 
+            p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se desarrolla la temática del funcionamiento del sistema financiero, de acuerdo con la normatividad vigente, entidades de control, seguridad, confidencialidad de la información y tratamientos de datos. 
 
-    p Aquí se ahondará en los contenidos relacionados con los productos económicos, las leyes y decretos que rigen el sector financiero; se entenderá la importancia de la seguridad y la confidencialidad como principio fundamental, conocerá los productos disponibles que ofrecen las entidades financieras; entenderá las características del mercado financiero, profundizará en el concepto de capital semilla, su aporte al emprendimiento y las principales políticas y trámites para adquirir este beneficio; además, reconocerá la diferencia entre préstamo y crédito, sus diferencias, requisitos para su adopción y criterios de aceptación.
+    p Se profundiza en los contenidos relacionados con los productos económicos, las leyes y decretos que rigen el sector financiero; se aprende sobre la importancia de la seguridad y la confidencialidad como principio fundamental y se conocen los productos disponibles que ofrecen las entidades financieras; entenderá las características del mercado financiero, el concepto de capital semilla, su aporte al emprendimiento y las principales políticas y trámites para adquirir este beneficio; además, se estudiará sobre la diferencia entre préstamo y crédito, sus diferencias, requisitos para su adopción y criterios de aceptación.
 
-    p Para ampliar estos conceptos, lo invitamos a ver el siguiente video:
-
+    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+    
     .col-12.mb-5
       figure
         .video

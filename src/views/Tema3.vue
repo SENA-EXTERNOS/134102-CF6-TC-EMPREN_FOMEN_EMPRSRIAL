@@ -154,24 +154,7 @@
               i.lista-ul__vineta
               | Certificado de constitución y gerencia expedido por la Cámara de Comercio.
 
-      .col-lg-10.px-4
-        .row.mt-5.p-4.card-t1.align-items-center.mb-5(data-aos='zoom-in-up')
-          .col-lg-1.col-2
-            figure
-              img(
-                src='@/assets/template/tema01/t1-i10.svg',
-                alt='Texto que describa la imagen'
-              )
-          .col-lg-8.col-6
-            h4 Cartilla práctica prepara los documentos para solicitar un crédito.
-            p.mb-0 Para ampliar la información, lo invitamos a ver el material complementario: Cartilla práctica prepara los documentos para solicitar un crédito.
-          .col-lg-3.col-4.text-center
-            a.boton.boton--b.color-acento-botones(
-              href="https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/11404/1000001325.pdf?sequence=1&isAllowed=y",
-              target='_blank'
-            )
-              span Descargar
-              i.fas.fa-file-download 
+      
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -259,7 +242,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.cajon-color-2.p-4
-          p.mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+          
 </template>
 
 <script>
