@@ -160,9 +160,9 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Los créditos
 
-    p Para continuar con el tema de solicitud y financiamiento de créditos, es necesario hacer énfasis en el concepto de crédito y no confundirlo con préstamo. La diferencia radica en que en el crédito el cliente cuenta con un dinero a su disposición y solo paga intereses por la cantidad que utiliza, pero por el contrario en el préstamo el cliente recibe todo el dinero y paga intereses por la totalidad sin importar cuánto realmente gaste. En el mercado financiero existen varios tipos de crédito y algunos criterios que se deben tener en cuenta, a la hora de elegir uno de estos, son:
+    p Se hace necesario hacer énfasis en el concepto de crédito y no confundirlo con préstamo. La diferencia radica en que en el crédito, el cliente cuenta con un dinero a su disposición y solo paga intereses por la cantidad que utiliza pero, por el contrario, en el préstamo, el cliente recibe todo el dinero y paga intereses por la totalidad sin importar cuánto realmente gaste. En el mercado financiero existen varios tipos de crédito y algunos criterios que se deben tener en cuenta, a la hora de elegir uno de estos.
 
-    p.mb-5 Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, debe revisar algunos criterios, los cuales se exponen a continuación:
+    p Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, revise algunos criterios expuestos a continuación:
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo='<strong>Tipos de crédito</strong>')
@@ -171,28 +171,28 @@
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Tarjetas de crédito
+                | Tarjetas de crédito.
               li 
                 i.lista-ul__vineta
-                | Créditos de libre inversión
+                | Créditos de libre inversión.
               li 
                 i.lista-ul__vineta
-                | Créditos hipotecarios
+                | Créditos hipotecarios.
               li 
                 i.lista-ul__vineta
-                | Crédito de nómina o libranza
+                | Crédito de nómina o libranza.
               li 
                 i.lista-ul__vineta
-                | Microcréditos
+                | Microcréditos.
               li 
                 i.lista-ul__vineta
-                | Créditos comerciales
+                | Créditos comerciales.
               li 
                 i.lista-ul__vineta
-                | Crédito educativo
+                | Crédito educativo.
               li 
                 i.lista-ul__vineta
-                | Crédito con garantía prendaria
+                | Crédito con garantía prendaria.
               li 
                 i.lista-ul__vineta
                 | Compra de cartera.
@@ -209,16 +209,16 @@
             ul.lista-ul
               li 
                 i.lista-ul__vineta
-                | Tasa de interés
+                | Tasa de interés.
               li 
                 i.lista-ul__vineta
-                | Monto total a pagar
+                | Monto total a pagar.
               li 
                 i.lista-ul__vineta
-                | Cuota a pagar
+                | Cuota a pagar.
               li 
                 i.lista-ul__vineta
-                | Plazo del crédito
+                | Plazo del crédito.
               li 
                 i.lista-ul__vineta
                 | Codeudor (para algunos créditos).
