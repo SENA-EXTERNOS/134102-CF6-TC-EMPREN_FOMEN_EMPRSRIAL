@@ -11,7 +11,7 @@
       .col-11.d-none.d-lg-block
         .bloque-texto-a.color-primario.p-3.p-sm-4.p-md-5.fnd-in-left-02
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Un emprendedor debe recurrir a una institución financiera y solicitar un crédito en el momento en el que desee poner en marcha su idea de negocio, pero no cuente con el capital semilla requerido mediante una solicitud de préstamo; este será concluyente por el tiempo y la capacidad de pago que tenga; así, podrá obtener los recursos necesarios para la puesta en marcha de su emprendimiento. Es necesario conocer que cada organismo financiero tiene su propio control documental y cuenta con formatos definidos considerados bajo la normatividad y el sistema de calidad.
+            p.mb-0 Un emprendedor debe recurrir a una institución financiera y solicitar un crédito en el momento en el que desee poner en marcha su idea de negocio, pero no cuente con el capital semilla requerido; este será concluyente por el tiempo y la capacidad de pago que tenga; así, podrá obtener los recursos necesarios para la puesta en marcha de su emprendimiento. Es necesario conocer que cada organismo financiero tiene su propio control documental y cuenta con formatos definidos considerados bajo la normatividad y el sistema de calidad.
 
       //- Mobil
       .col-11.d-sm-block.d-lg-none
@@ -20,7 +20,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/tema03/t3-i1.png")})` }'
           )
           .bloque-texto-g__texto.py-4.px-5
-            p.mb-0 Un emprendedor debe recurrir a una institución financiera y solicitar un crédito en el momento en el que desee poner en marcha su idea de negocio, pero no cuente con el capital semilla requerido mediante una solicitud de préstamo; este será concluyente por el tiempo y la capacidad de pago que tenga; así, podrá obtener los recursos necesarios para la puesta en marcha de su emprendimiento. Es necesario conocer que cada organismo financiero tiene su propio control documental y cuenta con formatos definidos considerados bajo la normatividad y el sistema de calidad.
+            p.mb-0 Un emprendedor debe recurrir a una institución financiera y solicitar un crédito en el momento en el que desee poner en marcha su idea de negocio, pero no cuente con el capital semilla requerido; este será concluyente por el tiempo y la capacidad de pago que tenga; así, podrá obtener los recursos necesarios para la puesta en marcha de su emprendimiento. Es necesario conocer que cada organismo financiero tiene su propio control documental y cuenta con formatos definidos considerados bajo la normatividad y el sistema de calidad.
 
     p.mb-5 Cuando una empresa está iniciando actividades se deben adjuntar los siguientes requisitos para la solicitud del préstamo:
 
@@ -112,7 +112,7 @@
           .col-md-8.mb-4.mb-md-0
             p Se observa, principalmente, el detalle de la investigación de mercados, sus características, la competencia, los elementos diferenciadores, los planes y estrategias comerciales. Además, se determina el plan estratégico empresarial, la misión, la visión, los objetivos, valores y estructura de operación.
             p Aquí se muestran el alcance técnico y tecnológico del proyecto; al igual que la naturaleza jurídica del ente a crear, las normatividades especiales, licencias, patentes, marcas, derechos, franquicias, entre otros.
-            p Al mismo tiempo, en este requisito, se incluye certificado de la Cámara de Comercio de Bogotá, si aplica el requisito, o mismo que autorizaciones para operación de entidades especiales; Registro único tributario (RUT), si ya lo tiene, y la enumeración de posibles garantías en caso de aprobación del crédito.
+            p Al mismo tiempo, en este requisito, se incluye certificado de la Cámara de Comercio, si aplica el requisito, o mismo que autorizaciones para operación de entidades especiales; Registro único tributario (RUT), si ya lo tiene, y la enumeración de posibles garantías en caso de aprobación del crédito.
           .col-md-4
             figure
               img(

@@ -305,7 +305,7 @@
           .row
             .col-md-10.mb-md-0.col-8
               h3.text-start Responsable del tratamiento
-              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decidE sobre la base de datos y/o el tratamiento de los datos.
+              p.text-start Persona natural o jurídica, pública o privada, que por sí misma o en asocio con otros, decide sobre la base de datos y/o el tratamiento de los datos.
 
             .col-md-2.col-4
               figure(data-aos='zoom-in')

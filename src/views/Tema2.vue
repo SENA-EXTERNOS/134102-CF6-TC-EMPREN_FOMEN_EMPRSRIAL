@@ -198,7 +198,7 @@
                       src='@/assets/template/tema02/t2-i9.svg',
                       alt='AvatarTop'
                     )
-                  p.text-center El certificado de residencia que con mínimo debe tener dos años de antigüedad expedida por la junta de acción comunal.
+                  p.text-center El certificado de residencia que mínimo debe tener dos años de antigüedad expedida por la junta de acción comunal.
 
           .tarjeta.p-4.color-tarjetas
             .row.justify-content-center.mb-3
@@ -260,8 +260,8 @@
                     i.lista-ul__vineta
                     | Innpulsa.                 
 
-    p Estas entidades buscan apoyar a los emprendedores con ideas de negocios que son prometedoras, impulsan el crecimiento rápido sean rentables y, lo más importante, que sean sostenibles a medida que avanza el tiempo. Adicional a las anteriores entidades, existen otras a destacar como Cultura E, Tecnoparques, Bancóldex, Ruta N, Parquesoft, Créame, Colciencias, entre otras.
-    p.mb-5 Para acceder al apoyo que el país brinda a los emprendimientos, lo único que deben hacer los interesados es generar una propuesta interesante, sostenible y que cumpla con unos requisitos específicos para el desembolso; así poder disfrutar de un capital que contribuya a negocios que generen empleo y oportunidad de desarrollo al país.
+    p Estas entidades buscan apoyar a los emprendedores con ideas de negocios que son prometedoras, impulsan el crecimiento rápido, sean rentables y, lo más importante, que sean sostenibles a medida que avanza el tiempo. Adicional a las anteriores entidades, existen otras a destacar como Cultura E, Tecnoparques, Bancóldex, Ruta N, Parquesoft, Créame, Colciencias, entre otras.
+    p.mb-5 Para acceder al apoyo que el país brinda a los emprendimientos, lo único que deben hacer los interesados es generar una propuesta interesante, sostenible y que cumpla con unos requisitos específicos para el desembolso; y así poder disfrutar de un capital que contribuya a negocios que generen empleo y oportunidad de desarrollo al país.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3

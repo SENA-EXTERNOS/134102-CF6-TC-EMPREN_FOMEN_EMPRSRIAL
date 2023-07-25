@@ -201,9 +201,9 @@ export default {
     },
     {
       referencia:
-        'Educación Superior Meta. (s. f). <em>Procedimiento de manejo de datos personales.</em>',
+        'Pontificia Universidad Javeriana Colombia. Manual de <i>procedimiento de protección de datos personales</i>',
       link:
-        'https://educacionsuperiormeta.co/images/recaudo/1_PROCEDIMIENTO_DE_MANEJO_DE_DATOS_PERSONALES.pdf',
+        'https://www.javeriana.edu.co/recursosdb/813229/983106/Manual+de+Procedimientos+de+Protecci%C3%B3n+de+Datos+Personales.pdf/35835b9b-77ef-4a76-15f2-fe1a53a68938?t=1606514114330',
     },
     {
       referencia:
