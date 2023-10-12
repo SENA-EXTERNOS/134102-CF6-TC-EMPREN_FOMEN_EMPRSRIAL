@@ -7,7 +7,7 @@
         span 1
       h1 El sistema financiero colombiano
 
-    p.mb-5 Para dar inicio a este componente formativo, es importante entender que, el sistema financiero, es el conjunto de instituciones financieras organizadas, tanto públicas como privadas, que se encargan de captar, administrar e invertir el dinero de todas las personas naturales o jurídicas, nacionales o extranjeras. Según Dueñas, R. (2008), en Introducción al sistema financiero y bancario, el sistema financiero es “el conjunto de normas, instrumentos y regulaciones (por ejemplo el Estatuto Orgánico del Sistema Financiero) que recaen sobre personas e instituciones que actúan en el mercado financiero, ya sean o no intermediados” (p.4).
+    p.mb-5 Para dar inicio a este componente formativo, es importante entender que, el sistema financiero, es el conjunto de instituciones financieras organizadas, tanto públicas como privadas, que se encargan de captar, administrar e invertir el dinero de todas las personas naturales o jurídicas, nacionales o extranjeras. Según Dueñas, R. (2008), en Introducción al sistema financiero y bancario, el sistema financiero es “el conjunto de normas, instrumentos y regulaciones (por ejemplo, el Estatuto Orgánico del Sistema Financiero) que recaen sobre personas e instituciones que actúan en el mercado financiero, ya sean o no intermediados” (p.4).
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -157,78 +157,78 @@
                 ul.lista-ul
                   li 
                     i.lista-ul__vineta
-                    | Ley 964 de 2005: regula el manejo, aprovechamiento e inversión de recursos captados del público a través de títulos. 
+                    span.mb-0 #[b Ley 964 de 2005:] regula el manejo, aprovechamiento e inversión de recursos captados del público a través de títulos. 
                   li 
                     i.lista-ul__vineta
-                    | Ley 1793 de 2016: dicta normas en materia de costos de los servicios financieros y se dictan otras disposiciones.
+                    span.mb-0 #[b Ley 1793 de 2016:] dicta normas en materia de costos de los servicios financieros y se dictan otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1777 de 2016: define y regula las cuentas abandonadas y se les asigna un uso eficiente a estos recursos.
+                    span.mb-0 #[b Ley 1777 de 2016:] define y regula las cuentas abandonadas y se les asigna un uso eficiente a estos recursos.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1748 de 2014: establece la obligación de brindar información transparente a los consumidores de los servicios financieros y se dictan otras disposiciones.
+                    span.mb-0 #[b Ley 1748 de 2014:] establece la obligación de brindar información transparente a los consumidores de los servicios financieros y se dictan otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1555 de 2012: permite a los consumidores financieros, el pago anticipado en las operaciones de crédito y dicta otras disposiciones.
+                    span.mb-0 #[b Ley 1555 de 2012:] permite a los consumidores financieros, el pago anticipado en las operaciones de crédito y dicta otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1357 de 2009: modifica el Código Penal.
+                    span.mb-0 #[b Ley 1357 de 2009:] modifica el Código Penal.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1340 de 2009: dicta normas en materia de Protección de la Competencia.
+                    span.mb-0 #[b Ley 1340 de 2009:] dicta normas en materia de Protección de la Competencia.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1328 de 2009 reforma Financiera: dicta normas en materia financiera, de seguros, del mercado de valores y otras disposiciones.
+                    span.mb-0 #[b Ley 1328 de 2009 reforma Financiera:] dicta normas en materia financiera, de seguros, del mercado de valores y otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1314 de 2009: regula los principios y normas de contabilidad e información financiera y de aseguramiento de información aceptados en Colombia, señala las autoridades competentes, el procedimiento para su expedición y se determinan las entidades responsables de vigilar su cumplimiento.
+                    span.mb-0 #[b Ley 1314 de 2009:] regula los principios y normas de contabilidad e información financiera y de aseguramiento de información aceptados en Colombia, señala las autoridades competentes, el procedimiento para su expedición y se determinan las entidades responsables de vigilar su cumplimiento.
                   li 
                     i.lista-ul__vineta
-                    | Ley 1266 de 2008: dicta las disposiciones generales del Habeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.
+                    span.mb-0 #[b Ley 1266 de 2008:] dicta las disposiciones generales del Habeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 795 de 2003: ajusta algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones.
+                    span.mb-0 #[b Ley 795 de 2003:] ajusta algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones.
                   li 
                     i.lista-ul__vineta
-                    | Ley 510 de 1999 Reforma Financiera: dicta disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancarias y de Valores, y se conceden unas facultades.
+                    span.mb-0 #[b Ley 510 de 1999 Reforma Financiera:] dicta disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancarias y de Valores, y se conceden unas facultades.
                   li 
                     i.lista-ul__vineta
-                    | Ley estatutaria 1581 de 2012 por la cual se dictan disposiciones generales para la protección de datos personales.
+                    span.mb-0 #[b Ley estatutaria 1581 de 2012:] por la cual se dictan disposiciones generales para la protección de datos personales.
 
             .row(titulo="Decretos:")
               .col-12
                 ul.lista-ul
                   li 
                     i.lista-ul__vineta
-                    |  Decreto 2739 de 1991: reglamenta el funcionamiento de la Superintendencia Financiera de Colombia.
+                    span.mb-0 #[b  Decreto 2739 de 1991:] reglamenta el funcionamiento de la Superintendencia Financiera de Colombia.
                   li 
                     i.lista-ul__vineta
-                    |  Decreto 663 de 1993: reglamenta las cooperativas financieras de orden superior.
+                    span.mb-0 #[b  Decreto 663 de 1993:] reglamenta las cooperativas financieras de orden superior.
                   li 
                     i.lista-ul__vineta
-                    |  Decreto 2654 de 2014: modifica el Decreto 2555 de 2010 en lo relacionado con el crédito de consumo de bajo monto.
+                    span.mb-0 #[b  Decreto 2654 de 2014:] modifica el Decreto 2555 de 2010 en lo relacionado con el crédito de consumo de bajo monto.
                   li 
                     i.lista-ul__vineta
-                    |  Decreto 4032 de 2010: adiciona el Decreto 2555 de 2010, se reglamentan los criterios de materialidad aplicables a las inversiones de capital realizadas a través de filiales y subsidiarias en entidades financieras del exterior.
+                    span.mb-0 #[b  Decreto 4032 de 2010:] adiciona el Decreto 2555 de 2010, se reglamentan los criterios de materialidad aplicables a las inversiones de capital realizadas a través de filiales y subsidiarias en entidades financieras del exterior.
                   li 
                     i.lista-ul__vineta
-                    |  Decreto 3993 de 2010: modifica el Decreto 2555 del 15 de julio de 2010 y se reglamenta la función de conciliación del Defensor del Consumidor Financiero.
+                    span.mb-0 #[b  Decreto 3993 de 2010:] modifica el Decreto 2555 del 15 de julio de 2010 y se reglamenta la función de conciliación del Defensor del Consumidor Financiero.
                   li 
                     i.lista-ul__vineta
-                    | Decreto 3590 de 2010: modifica el Decreto 2555 de 2010, respecto a la certificación del interés bancario corriente aplicable a la modalidad de microcrédito.
+                    span.mb-0 #[b Decreto 3590 de 2010:] modifica el Decreto 2555 de 2010, respecto a la certificación del interés bancario corriente aplicable a la modalidad de microcrédito.
                   li 
                     i.lista-ul__vineta
-                    | Decreto 3594 de 2010: modifica el Decreto 2555 de 2010 y se reglamenta el artículo 100 de la Ley 1328 de 2009. Servicios financieros prestados a través de corresponsales cambiarios.
+                    span.mb-0 #[b Decreto 3594 de 2010:] modifica el Decreto 2555 de 2010 y se reglamenta el artículo 100 de la Ley 1328 de 2009. Servicios financieros prestados a través de corresponsales cambiarios.
                   li 
                     i.lista-ul__vineta
-                    | Decreto 2953 de 2010: modifica el Decreto 2555 de 2010 y establece el régimen de inversiones de las reservas técnicas de las entidades aseguradoras y las sociedades de capitalización.
+                    span.mb-0 #[b Decreto 2953 de 2010:] modifica el Decreto 2555 de 2010 y establece el régimen de inversiones de las reservas técnicas de las entidades aseguradoras y las sociedades de capitalización.
                   li 
                     i.lista-ul__vineta
-                    | Decreto 1727 de 2009: por medio del cual se determina la forma en la cual los operadores de los bancos de datos, deben presentar la información de los titulares.
+                    span.mb-0 #[b Decreto 1727 de 2009:] por medio del cual se determina la forma en la cual los operadores de los bancos de datos, deben presentar la información de los titulares.
 
             .row(titulo="Circular:")
               .col-12
-                p.mb-0 Circular 52 del 25 de octubre 2007: requerimientos mínimos de seguridad y calidad en el manejo de la información a través de medios y canales de distribución de productos y servicios para clientes y usuarios.
+                p.mb-0 #[b Circular 52 del 25 de octubre 2007:] requerimientos mínimos de seguridad y calidad en el manejo de la información a través de medios y canales de distribución de productos y servicios para clientes y usuarios.
 
     h3.mb-4
       i.fas.fa-square.color_texto_acento.me-3
@@ -236,7 +236,7 @@
 
     p Después de conocer la normativa financiera, hay que abordar la seguridad y la confidencialidad de la información, teniendo en cuenta que el Estado, desde su deber, ha impulsado la protección de la información y privacidad de los datos en la sociedad.
 
-    p Para la Superintendencia Financiera, la confidencialidad es “la protección de información cuya divulgación no está autorizada “(Circular 052) y desde la informática es vista como un principio fundamental que garantiza la privacidad de la información y de su tratamiento, para prevenir su divulgación o no autorización cuando está almacenado en tránsito.
+    p Para la Superintendencia Financiera, la confidencialidad es "la protección de información cuya divulgación no está autorizada" (Circular 052) y desde la informática es vista como un principio fundamental que garantiza la privacidad de la información y de su tratamiento, para prevenir su divulgación o no autorización cuando está almacenado en tránsito.
 
     p.mb-5 Se debe garantizar la confidencialidad de la información; por lo tanto, se debe aplicar una serie de técnicas tales como:
 

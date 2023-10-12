@@ -26,7 +26,7 @@
           .tarjeta.bg-03.p-4(titulo='Ley 35 de 1983')
             p Por la cual se dictan normas generales, se señalan en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno Nacional para regular las actividades financiera, bursátil y aseguradora y cualquier otra relacionada con el manejo, aprovechamiento e inversión de recursos captados del público y se dictan otras disposiciones en materia financiera y aseguradora.
           .tarjeta.bg-03.p-4(titulo='Ley 510 de 1999')
-            p Por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores y se conceden unas facultades.
+            p Por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores que conceden unas facultades.
           .tarjeta.bg-03.p-4(titulo='Ley 546 de 1999')
             p Por la cual se dictan normas en materia de vivienda; señala los objetivos y criterios generales a los cuales debe sujetarse el Gobierno Nacional para regular un sistema especializado para su financiación, se crean instrumentos de ahorro destinado a dicha financiación, se dictan medidas relacionadas con los impuestos y otros costos vinculados a la construcción y negociación de vivienda y se expiden otras disposiciones.
           .tarjeta.bg-03.p-4(titulo='Ley 795 de 2003')
@@ -370,7 +370,7 @@
                 p Por la cual se dictan normas generales y se señalan en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno Nacional para regular las actividades financieras, bursátiles, aseguradoras, y cualquier otra relacionada con el manejo, aprovechamiento e inversión de recursos captados del público; se dictan otras disposiciones en materia financiera y aseguradora. 
             .row(titulo="Ley 510 de 1999")
               .col-12
-                p Modificada por la Ley 676 de 2001, por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores y se conceden unas facultades.
+                p Modificada por la Ley 676 de 2001, por la cual se dictan disposiciones en relación con el sistema financiero y asegurador, el mercado público de valores, las Superintendencias Bancaria y de Valores que conceden unas facultades.
             .row(titulo="Ley 795 de 2003")
               .col-12
                 p Por la cual se ajustan algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones.

@@ -160,7 +160,7 @@
       i.fas.fa-square.color_texto_acento.me-3
       | Los créditos
 
-    p Se hace necesario hacer énfasis en el concepto de crédito y no confundirlo con préstamo. La diferencia radica en que en el crédito, el cliente cuenta con un dinero a su disposición y solo paga intereses por la cantidad que utiliza pero, por el contrario, en el préstamo, el cliente recibe todo el dinero y paga intereses por la totalidad sin importar cuánto realmente gaste. En el mercado financiero existen varios tipos de crédito y algunos criterios que se deben tener en cuenta, a la hora de elegir uno de estos.
+    p Se hace necesario hacer énfasis en el concepto de crédito y no confundirlo con préstamo. La diferencia radica en que, en el crédito, el cliente cuenta con un dinero a su disposición y solo paga intereses por la cantidad que utiliza, pero, por el contrario, en el préstamo, el cliente recibe todo el dinero y paga intereses por la totalidad sin importar cuánto realmente gaste. En el mercado financiero existen varios tipos de crédito y algunos criterios que se deben tener en cuenta, a la hora de elegir uno de estos.
 
     p Cabe mencionar que el emprendedor, antes de tomar una decisión referente al crédito a elegir, revise algunos criterios expuestos a continuación:
 
@@ -258,7 +258,7 @@ export default {
       },
       {
         texto:
-          'Una vez efectuado todo el proceso de solicitud del crédito, se valida la información con los soportes entregados requeridos por el banco para el estudio del crediticio.',
+          'Una vez efectuado todo el proceso de solicitud del crédito, se valida la información con los soportes entregados requeridos por el banco para el estudio crediticio.',
         icono: require('@/assets/template/tema03/t3-i15.svg'),
       },
       {
